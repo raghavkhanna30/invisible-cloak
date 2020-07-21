@@ -9,7 +9,7 @@ A message from harry potter : Try my invisible cloak.
 
 Gifted by Harry Potter
 
-## usage :
+## 🚀&nbsp; Usage
 When program executes give it a second to capture background.
 After that RED cloth Will become invisible!
 
@@ -20,5 +20,10 @@ After that RED cloth Will become invisible!
 
 OpenCV
 Numpy
+
+## Follow on Twitter - Click [erRaghavKhanna](https://twitter.com/erRaghavKhanna)
+
+## 📘&nbsp; License
+The Invisible Cloak is released under the under terms of the [MIT License](LICENSE).
 
 
